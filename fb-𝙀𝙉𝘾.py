@@ -1,4 +1,4 @@
-# THIS ENCODE BY RADHEY | @sunradhey ♤
+# THIS ENCODE BY RADHEY | @sunradhey 
 R,A,D,H,E,Y,J,I,I = map(chr, [82, 65, 68, 72, 69, 89, 74, 73, 73])
 RA, DH, EY, JII = R+A, D+H, E+Y, J+I+I
 RADHEY = R+A+D+H+E+Y+J+I+I
